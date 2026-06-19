@@ -1,4 +1,6 @@
 ﻿# Actividad-12-06
+
+Nombre: Lobo Joaquin Tomas
  
 1- Sistema de Cajero Automático
   Funcionalidades
